@@ -109,6 +109,12 @@
             "back": "! kaldes for en negering.",
             "tag": "Logiske operatorer",
             "level": 1
+        },
+        {
+            "front": "Hvad er en Boolean",
+            "back": "En true eller false værdi",
+            "tag": "Logiske operatorer",
+            "level": 1
         }
     ]
 }
